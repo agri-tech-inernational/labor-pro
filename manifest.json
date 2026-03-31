@@ -1,8 +1,8 @@
 {
   "name": "AgriTech Labor Pro",
   "short_name": "Labor Pro",
-  "start_url": "./",
-  "scope": "./",
+  "start_url": "/labor-pro/",
+  "scope": "/labor-pro/",
   "display": "standalone",
   "background_color": "#020617",
   "theme_color": "#020617",
